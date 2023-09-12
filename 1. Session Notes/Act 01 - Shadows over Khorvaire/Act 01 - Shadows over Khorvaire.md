@@ -1,0 +1,7 @@
+---
+- **[[Session 01-001 - The Train|The Train]]:** The PCs begin as ordinary residents of Sharn, leading their daily lives. Each character has their own occupation and connections in the city.
+- **Mysterious Events:** A series of strange and unsettling events occur in Sharn, including unexplained magical disturbances and a rising number of disappearances.
+- **[[Session 01-003 - Dragons Presence|Dragon's Presence]]:** The party begins to discover hints of a dragon's involvement in the unfolding mystery. Dragon-related symbols, magical traces, and rumors suggest a draconic presence in the plot.
+- **[[Session 01-004 - Discovery of the Obelisk|Discovery of the Obelisk]]:** The PCs stumble upon the first clue about the ancient obsidian obelisk discovered in Xen'drik. They learn about its connection to the Mourning and the dark alliance between the Aurum and dragons.
+- **[[Session 01-005 - Dragon Guardians|Dragon Guardians]]:** The party is visited by benevolent dragon guardians who have been monitoring the situation. These dragons offer guidance, knowledge, and assistance to the party, revealing the dangers posed by the Aurum and the renegade dragon.
+- **[[Session 01-006 - Airship Chase|Airship Chase]]:** The party decides to intercept the Aurum's airship to gather more information and potentially thwart the Aurum's plans. They engage in a thrilling airship chase through the skies of Sharn.

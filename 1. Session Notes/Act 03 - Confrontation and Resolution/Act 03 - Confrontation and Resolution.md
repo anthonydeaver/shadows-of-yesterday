@@ -1,0 +1,7 @@
+---
+
+- **[[Session 03-001 - Final Showdown|Final Showdown]]:** The adventure culminates in a dramatic confrontation at the obelisk's location in Xen'drik. The party faces off against the Aurum agents, the renegade dragon, the thieves, and their allies.
+- **[[Session 03-002 - Dragon's Revelation|Dragon's Revelation]]:** The renegade dragon [[Dragon's Revelation|reveals the truth]] about their past, motivations, and reasons for collaborating with the Aurum. The party must decide whether to trust or confront the dragon.
+- **[[Session 03-003 - Moral Dilemma|Moral Dilemma]]:** The party faces a moral dilemma when dealing with the renegade dragon. Do they attempt to reason with the dragon and seek a peaceful resolution, or do they confront the dragon and potentially engage in a dangerous battle?
+- **[[Session 02-006 - The Obelisk's Location|Obelisk's Fate]]:** The party's critical decision involves the obelisk's fate. They may choose to destroy it, disable it, or explore alternative solutions to prevent the Aurum's ritual.
+- **[[Session 03-005 - Consequences|Consequences]]:** The adventure's conclusion has significant consequences. Depending on their choices, the renegade dragon may become an ally, a recurring adversary, or meet their end. The party's actions impact the overall narrative.

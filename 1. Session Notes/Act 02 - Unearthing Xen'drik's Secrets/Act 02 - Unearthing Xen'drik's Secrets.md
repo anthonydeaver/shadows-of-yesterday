@@ -1,0 +1,7 @@
+---
+- **[[Session 02-001 - Infiltration and Deception|Infiltration and Deception]]:** The party delves deeper into the mystery, uncovering that the Aurum has infiltrated various aspects of Sharn's society and government. Some corrupt officials may be involved.
+- **[[Session 02-002 - Quest for Information|Quest for Information]]:** The PCs gather information and allies, reaching out to factions or individuals who oppose the Aurum. They must learn more about the obelisk's location and significance.
+- **[[Session 02-003 - Xen'drik Expedition|Xen'drik Expedition]]:** The adventure takes the PCs to the wilds of Xen'drik, where they confront dangerous environments, wildlife, and rival groups searching for the obelisk.
+- **[[Session 02-004 - Deceptive Fragments|Deceptive Fragments]]:** The party learns that some of the obelisk fragments they've recovered are clever forgeries or decoys planted by the Aurum. The real fragments are hidden elsewhere, leading to a wild goose chase.
+- **[[Session 02-005 - Renegade Dragon's Agenda|Renegade Dragon's Agenda]]:** The party encounters followers, agents, or creatures serving the renegade dragon's interests. Clues about the dragon's motivations emerge, raising questions about their true role.
+- **[[Session 02-006 - The Obelisk's Location|The Obelisk's Location]]:** After overcoming challenges and adversaries, the PCs finally discover the whereabouts of the obsidian obelisk in the Xen'drik wilderness.

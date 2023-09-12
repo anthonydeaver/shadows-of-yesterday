@@ -1,12 +1,14 @@
 ---
-alias: "Week of 29th January 2023"
-type: "session-notes"
+aliases:
+  - Week of 29th January 2023
+type: session-notes
 tags:
-  - "dnd" 
-  - "session-notes"
+  - dnd
+  - session-notes
 date_created: 2023-01-23
 dnd_session_date: 
-summary: ["The party defeats Kethril and his allies, but the artifact is damaged in the battle and begins to malfunction."]
+summary:
+  - The party faces a moral dilemma when dealing with the renegade dragon. Do they attempt to reason with the dragon and seek a peaceful resolution, or do they confront the dragon and potentially engage in a dangerous battle?
 ---
 # Session Notes: January 29th 2023
 #session-notes 

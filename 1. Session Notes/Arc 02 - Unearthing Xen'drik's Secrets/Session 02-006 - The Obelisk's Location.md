@@ -1,12 +1,15 @@
 ---
-alias: "Week of 29th January 2023"
-type: "session-notes"
+aliases:
+  - Week of 29th January 2023
+type: session-notes
 tags:
-  - "dnd" 
-  - "session-notes"
+  - dnd
+  - session-notes
 date_created: 2023-01-23
 dnd_session_date: 
-summary: [""]
+summary:
+  - ""
+  - After overcoming challenges and adversaries, the PCs finally discover the whereabouts of the obsidian obelisk in the Xen'drik wilderness.
 ---
 # Session Notes: January 29th 2023
 #session-notes 

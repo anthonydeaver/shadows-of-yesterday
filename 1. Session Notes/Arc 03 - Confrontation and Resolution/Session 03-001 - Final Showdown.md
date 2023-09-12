@@ -1,12 +1,14 @@
 ---
-alias: "Week of 29th January 2023"
-type: "session-notes"
+aliases:
+  - Week of 29th January 2023
+type: session-notes
 tags:
-  - "dnd" 
-  - "session-notes"
+  - dnd
+  - session-notes
 date_created: 2023-01-23
 dnd_session_date: 
-summary: ["The party confronts Kethril and his allies in a final battle, which takes place on Kethril's flagship in the midst of a fleet battle."]
+summary:
+  - The adventure culminates in a dramatic confrontation at the obelisk's location in Xen'drik. The party faces off against the Aurum agents, the renegade dragon, the thieves, and their allies.
 ---
 # Session Notes: January 29th 2023
 #session-notes 

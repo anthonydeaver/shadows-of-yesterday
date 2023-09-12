@@ -1,12 +1,14 @@
 ---
-alias: "Week of 29th January 2023"
-type: "session-notes"
+aliases:
+  - Week of 29th January 2023
+type: session-notes
 tags:
-  - "dnd" 
-  - "session-notes"
+  - dnd
+  - session-notes
 date_created: 2023-01-23
 dnd_session_date: 
-summary: ["The Church of the Platinum Dragon arrives to take possession of the artifact, but as they do, the artifact explodes, creating a massive portal that sucks in everything in the immediate area."]
+summary:
+  - The party's critical decision involves the obelisk's fate. They may choose to destroy it, disable it, or explore alternative solutions to prevent the Aurum's ritual.
 ---
 # Session Notes: January 29th 2023
 #session-notes 

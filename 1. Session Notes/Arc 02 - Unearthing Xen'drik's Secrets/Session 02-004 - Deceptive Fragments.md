@@ -1,12 +1,15 @@
 ---
-alias: "Week of 29th January 2023"
-type: "session-notes"
+aliases:
+  - Week of 29th January 2023
+type: session-notes
 tags:
-  - "dnd" 
-  - "session-notes"
+  - dnd
+  - session-notes
 date_created: 2023-01-23
 dnd_session_date: 
-summary: [""]
+summary:
+  - ""
+  - The party learns that some of the obelisk fragments they've recovered are clever forgeries or decoys planted by the Aurum. The real fragments are hidden elsewhere, leading to a wild goose chase.
 ---
 # Session Notes: January 29th 2023
 #session-notes 

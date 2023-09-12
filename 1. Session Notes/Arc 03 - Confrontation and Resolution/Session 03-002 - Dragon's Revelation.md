@@ -1,12 +1,14 @@
 ---
-alias: "Week of 29th January 2023"
-type: "session-notes"
+aliases:
+  - Week of 29th January 2023
+type: session-notes
 tags:
-  - "dnd" 
-  - "session-notes"
+  - dnd
+  - session-notes
 date_created: 2023-01-23
 dnd_session_date: 
-summary: ["During the battle, it is revealed that Kethril's true plan is to use the artifact to power a powerful weapon that can destroy entire worlds, which he plans to use to conquer the universe."]
+summary:
+  - The renegade dragon reveals the truth about their past, motivations, and reasons for collaborating with the Aurum. The party must decide whether to trust or confront the dragon.
 ---
 # Session Notes: January 29th 2023
 #session-notes 

@@ -1,12 +1,14 @@
 ---
-alias: "Week of 29th January 2023"
-type: "session-notes"
+aliases:
+  - Week of 29th January 2023
+type: session-notes
 tags:
-  - "dnd" 
-  - "session-notes"
+  - dnd
+  - session-notes
 date_created: 2023-01-23
 dnd_session_date: 
-summary: ["Planebreaker"]
+summary:
+  - The adventure's conclusion has significant consequences. Depending on their choices, the renegade dragon may become an ally, a recurring adversary, or meet their end. The party's actions impact the overall narrative.
 ---
 # Session Notes: January 29th 2023
 #session-notes 

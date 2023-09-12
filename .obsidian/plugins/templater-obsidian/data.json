@@ -1,0 +1,35 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "x_Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": false,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    "templates/templates.meeting.md",
+    "templates/templates.standup.md",
+    "templates/templates.sprint.md",
+    "templates/templates.project.md",
+    "templates/templates.offweek.md",
+    "templates/templates.onweek.md"
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}

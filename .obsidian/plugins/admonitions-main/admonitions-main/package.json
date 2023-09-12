@@ -1,0 +1,41 @@
+{
+    "name": "obsidian-admonition",
+    "version": "10.0.0",
+    "description": "Enhanced callouts for Obsidian.md",
+    "main": "main.js",
+    "scripts": {
+        "dev": "node ./esbuild.config.mjs",
+        "build": "npm run publish && node ./esbuild.config.mjs production",
+        "publish": "node ./esbuild.publish.mjs production",
+        "release": "standard-version"
+    },
+    "standard-version": {
+        "t": "",
+        "releaseCommitMessageFormat": "Obsidian Admonitions Release: v{{currentTag}}"
+    },
+    "keywords": [],
+    "author": "Jeremy Valentine",
+    "license": "MIT",
+    "devDependencies": {
+        "@fortawesome/fontawesome-svg-core": "^1.2.32",
+        "@fortawesome/free-regular-svg-icons": "^5.15.3",
+        "@fortawesome/free-solid-svg-icons": "^5.15.1",
+        "@popperjs/core": "^2.9.2",
+        "@primer/octicons": "^16.3.1",
+        "@types/node": "^14.14.2",
+        "@types/object.fromentries": "^2.0.0",
+        "builtin-modules": "^3.3.0",
+        "dotenv": "^10.0.0",
+        "esbuild": "^0.13.15",
+        "esbuild-sass-plugin": "^2.2.4",
+        "monkey-around": "^2.3.0",
+        "object.fromentries": "^2.0.4",
+        "obsidian": "^1.1.1",
+        "tslib": "^2.0.3",
+        "typescript": "^4.0.3"
+    },
+    "dependencies": {
+        "@fortawesome/free-brands-svg-icons": "^5.15.4",
+        "standard-version": "^9.3.2"
+    }
+}

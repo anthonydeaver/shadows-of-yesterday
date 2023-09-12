@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "9bd86e5c677811f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c98480190ae3b8c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b48ab207e3b1c63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Assets/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21d3fc9deecd08c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "475e93017a8b454d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3253fdbee92d4a10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45c9afcc81085897",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "843f41741fa47c22",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f0500ff20f96a770",
+    "type": "split",
+    "children": [
+      {
+        "id": "0103deea84d2a071",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2771bee93bb4bfa5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "z_Assets/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "392a4b2ecbae1a15",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "z_Assets/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "785fbe9c9738bdd0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f33c05677e7fdc18",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "z_Assets/Untitled.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3253fdbee92d4a10",
+  "lastOpenFiles": [
+    "Campaign/Campaign Docs.md",
+    "Campaign",
+    "Plot Web.md",
+    "Untitled 1.canvas",
+    "Modules/6 - Space!/Poster Map.md",
+    "Modules/6 - Space!/Light of Xaryxis.md",
+    "Modules/6 - Space!/Chapter 2 Astral Adventuring.md",
+    "Modules/6 - Space!/Chapter 1 Character Options.md",
+    "Modules/6 - Space!/Chapter 3 The Rock of Bral.md",
+    "Modules/6 - Space!/Creating a Wildspace System.md",
+    "Modules/6 - Space!/Astral Adventurers Guide.md",
+    "Modules/6 - Space!/Additional Spelljammer Tables.md",
+    "Modules/6 - Space!",
+    "Modules/5 - From Dust/Untitled",
+    "Modules/5 - From Dust",
+    "Modules/4. Grasp of the Emerald Claw/4 - The Ruin/The Vault Level/Vault Dais Entry.md",
+    "Modules/4. Grasp of the Emerald Claw/4 - The Ruin/The Vault Level/The Vault Level.md",
+    "Modules/4. Grasp of the Emerald Claw/4 - The Ruin/The Vault Level/Creation Forge.md",
+    "Modules/4. Grasp of the Emerald Claw/4 - The Ruin/Observatory Level/Throne Gate.md",
+    "Modules/4. Grasp of the Emerald Claw/4 - The Ruin/Observatory Level/Stairs to Temple Level.md",
+    "Modules/4. Grasp of the Emerald Claw/4 - The Ruin/Observatory Level/The Slave Attics.md",
+    "Modules/4. Grasp of the Emerald Claw/4 - The Ruin/Observatory Level/Temporary Storeroom.md",
+    "Modules/4. Grasp of the Emerald Claw/4 - The Ruin/Observatory Level/Observatory Level.md",
+    "Modules/4. Grasp of the Emerald Claw/4 - The Ruin/Observatory Level/Secret Chamber.md",
+    "Modules/4. Grasp of the Emerald Claw/4 - The Ruin/Observatory Level/Reinforcements.md",
+    "Modules/4. Grasp of the Emerald Claw/4 - The Ruin/Observatory Level/Observatory Ledge.md",
+    "Modules/4. Grasp of the Emerald Claw/4 - The Ruin/Observatory Level/Hall Guard.md",
+    "Modules/4. Grasp of the Emerald Claw/4 - The Ruin/Observatory Level/Guardian Bones.md",
+    "Modules/4. Grasp of the Emerald Claw/4 - The Ruin/Observatory Level/Empty Rooms.md",
+    "Modules/4. Grasp of the Emerald Claw/4 - The Ruin/Observatory Level/Dead Book Room.md",
+    "Modules/4. Grasp of the Emerald Claw/4 - The Ruin/Observatory Level/Barren Cells.md",
+    "Modules/4. Grasp of the Emerald Claw/4 - The Ruin/The Vault Level",
+    "Modules/4. Grasp of the Emerald Claw/4 - The Ruin/Observatory Level",
+    "Modules/4. Grasp of the Emerald Claw/4 - The Ruin/4.3 - Temple Level",
+    "Modules/4. Grasp of the Emerald Claw/4 - The Ruin/4.2 - Dark Level",
+    "Modules/4. Grasp of the Emerald Claw/4 - The Ruin/4.1 - Gallery Level",
+    "Modules/4. Grasp of the Emerald Claw/2 - From Here to There/2.5 - Stormreach"
+  ]
+}
